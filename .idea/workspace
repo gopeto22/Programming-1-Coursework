@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9b828fb-bc81-48b4-980c-56dad556c3eb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20udU3x6CUWyl4ZAvNUmXslAb5m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../labs/lab9" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ECS Building Defence (v0.3.0)\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ECS Building Defence (v0.3.0)\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EcsBuildingDefence">
+    <configuration name="Bug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bugs.Bug" />
+      <module name="ECS Building Defence (v0.3.0)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bugs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcsBuildingDefence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EcsBuildingDefence" />
+      <module name="ECS Building Defence (v0.3.0)" />
+      <option name="PROGRAM_PARAMETERS" value="4 20 bugs.txt 100" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ECS Building Defence (v0.3.0)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ECS Building Defence (v0.3.0)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPart1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ECS Building Defence (v0.3.0)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPart1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPart3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ECS Building Defence (v0.3.0)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPart3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EcsBuildingDefence" />
+        <item itemvalue="JUnit.All in ECS Building Defence (v0.3.0)" />
+        <item itemvalue="JUnit.TestPart3" />
+        <item itemvalue="JUnit.TestPart1" />
+        <item itemvalue="Application.Bug" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b828fb-bc81-48b4-980c-56dad556c3eb" name="Changes" comment="" />
+      <created>1636898418607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636898418607</updated>
+      <workItem from="1636898419757" duration="17933000" />
+      <workItem from="1637151498912" duration="5822000" />
+      <workItem from="1637586444565" duration="196000" />
+      <workItem from="1637686116567" duration="7538000" />
+      <workItem from="1637767894372" duration="8665000" />
+      <workItem from="1638149650699" duration="16728000" />
+      <workItem from="1638318743575" duration="7555000" />
+      <workItem from="1638356092377" duration="25147000" />
+      <workItem from="1638398281173" duration="136000" />
+      <workItem from="1638454310014" duration="5473000" />
+      <workItem from="1638537218532" duration="14496000" />
+      <workItem from="1638791537052" duration="12335000" />
+      <workItem from="1638829265220" duration="6111000" />
+      <workItem from="1638881281678" duration="5351000" />
+      <workItem from="1638888943507" duration="7329000" />
+      <workItem from="1638975347923" duration="6962000" />
+      <workItem from="1639043498355" duration="7907000" />
+      <workItem from="1639156229084" duration="462000" />
+      <workItem from="1639185239556" duration="13193000" />
+      <workItem from="1639300229687" duration="14471000" />
+      <workItem from="1639389961800" duration="17662000" />
+      <workItem from="1639478437370" duration="13089000" />
+      <workItem from="1639562839721" duration="19900000" />
+      <workItem from="1639593149488" duration="44152000" />
+      <workItem from="1639705775226" duration="6518000" />
+      <workItem from="1639735828981" duration="21585000" />
+      <workItem from="1642757052588" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
